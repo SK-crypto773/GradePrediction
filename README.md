@@ -8,5 +8,6 @@ Predicts a student's end of year test grade using Linear Regression
 * Matplotlib 
 
 # How to Use
-Change directory to where the folder is located
-Run LinearRegression.py
+* Download this repository
+* Change directory to where the folder is located
+* Run LinearRegression.py
